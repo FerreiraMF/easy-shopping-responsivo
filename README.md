@@ -8,6 +8,6 @@
 <p>-HTML</p>
 <p>-CSS</p>
 <p align="center">
-  <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/desktop.png?raw=true" width="48%"/> 
-  <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/mobile.png?raw=true" width="10%"/>
+  <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/desktop.png?raw=true" height="300"/> 
+  <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/mobile.png?raw=true" height="300"/>
 </p>
