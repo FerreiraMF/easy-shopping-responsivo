@@ -8,5 +8,5 @@
 <p>-HTML</p>
 <p>-CSS</p>
 
-<img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/desktop.png?raw=true"/> <img src="[https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/desktop.png?raw=true](https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/mobile.png?raw=true"](https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/mobile.png?raw=true)/>
+<img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/desktop.png?raw=true"/> <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/mobile.png?raw=true/>
 
