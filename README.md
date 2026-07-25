@@ -8,7 +8,7 @@
 <p>-HTML</p>
 <p>-CSS</p>
 
-<table align="center">
+<table align="center" border="none">
   <tr>
     <td width="75%" align="center">
       <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/desktop.png?raw=true" width="700">
