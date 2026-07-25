@@ -7,6 +7,8 @@
 <br>
 <p>-HTML</p>
 <p>-CSS</p>
-
-<img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/desktop.png?raw=true" inline-block/> <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/mobile.png?raw=true" inline-block/>
+<p align="center">
+  <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/desktop.png?raw=true" /> 
+  <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/mobile.png?raw=true"/>
+</p>
 
