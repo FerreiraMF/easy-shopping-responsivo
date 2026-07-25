@@ -11,4 +11,6 @@
   <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/desktop.png?raw=true" /> 
   <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/mobile.png?raw=true"/>
 </p>
-
+| Imagem 1 | Imagem 2 |
+|-----------|-----------|
+| <img src="[https://link-da-imagem1.png](https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/desktop.png?raw=true)" width="100%"> | <img src="[https://link-da-imagem2.png](https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/mobile.png?raw=true)" width="100%"> |
