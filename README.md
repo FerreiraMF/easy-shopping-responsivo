@@ -8,12 +8,12 @@
 <p>-HTML</p>
 <p>-CSS</p>
 
-<table align="center" border="none">
+<table align="center" style="border: none;">
   <tr>
-    <td width="75%" align="center">
+    <td width="75%" align="center"style="border: none;">
       <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/desktop.png?raw=true" width="700">
     </td>
-    <td width="25%" align="center">
+    <td width="25%" align="center" style="border: none;">
       <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/mobile.png?raw=true" width="220">
     </td>
   </tr>
