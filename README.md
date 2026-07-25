@@ -10,10 +10,10 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td width="75%" align="center">
       <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/desktop.png?raw=true" width="700">
     </td>
-    <td align="center">
+    <td width="25%" align="center">
       <img src="https://github.com/FerreiraMF/easy-shopping-responsivo/blob/main/assets/mobile.png?raw=true" width="220">
     </td>
   </tr>
