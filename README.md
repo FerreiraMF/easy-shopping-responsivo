@@ -3,7 +3,7 @@
 <p>Neste projeto treinei fundamentos de HTML, CSS e Responsividade</p>
 <br>
 <br>
-<h2>Tecnoligias usada no projeto</h2>
+<h2>Tecnologias usada no projeto</h2>
 <br>
 <p>-HTML</p>
 <p>-CSS</p>
